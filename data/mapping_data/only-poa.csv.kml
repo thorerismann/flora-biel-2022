@@ -1,0 +1,5442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>only-poa.csv</name>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Ta1</name>
+      <description><![CDATA[unnamed (1): 0<br>taxon_orig: Poaceae<br>x: 7.2518259<br>y: 47.13216648<br>obs_id: 11432786<br>date: 2022-02-27 08:43:30]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>0.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.2518259</value>
+        </Data>
+        <Data name="y">
+          <value>47.13216648</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432786E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-27 08:43:30</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.2518259,47.13216648,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta2</name>
+      <description><![CDATA[unnamed (1): 1<br>taxon_orig: Poaceae<br>x: 7.25331184<br>y: 47.13165246<br>obs_id: 11432784<br>date: 2022-02-27 08:48:13]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>1.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25331184</value>
+        </Data>
+        <Data name="y">
+          <value>47.13165246</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432784E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-27 08:48:13</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25331184,47.13165246,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta3</name>
+      <description><![CDATA[unnamed (1): 2<br>taxon_orig: Poaceae<br>x: 7.25292049<br>y: 47.13227415<br>obs_id: 11432777<br>date: 2022-02-27 08:54:58]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>2.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25292049</value>
+        </Data>
+        <Data name="y">
+          <value>47.13227415</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432777E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-27 08:54:58</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25292049,47.13227415,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta4</name>
+      <description><![CDATA[unnamed (1): 3<br>taxon_orig: Poaceae<br>x: 7.26220571<br>y: 47.13853413<br>obs_id: 11432764<br>date: 2022-02-27 14:25:15]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>3.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.26220571</value>
+        </Data>
+        <Data name="y">
+          <value>47.13853413</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432764E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-27 14:25:15</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.26220571,47.13853413,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta5</name>
+      <description><![CDATA[unnamed (1): 4<br>taxon_orig: Poaceae<br>x: 7.25872295<br>y: 47.12661762<br>obs_id: 11432751<br>date: 2022-02-28 09:09:49]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>4.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25872295</value>
+        </Data>
+        <Data name="y">
+          <value>47.12661762</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432751E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-28 09:09:49</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25872295,47.12661762,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta6</name>
+      <description><![CDATA[unnamed (1): 5<br>taxon_orig: Poaceae<br>x: 7.2589123<br>y: 47.12669008<br>obs_id: 11432744<br>date: 2022-02-28 09:16:45]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>5.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.2589123</value>
+        </Data>
+        <Data name="y">
+          <value>47.12669008</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432744E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-28 09:16:45</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.2589123,47.12669008,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta7</name>
+      <description><![CDATA[unnamed (1): 6<br>taxon_orig: Poaceae<br>x: 7.24642997<br>y: 47.12872047<br>obs_id: 11432737<br>date: 2022-02-28 15:45:49]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>6.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.24642997</value>
+        </Data>
+        <Data name="y">
+          <value>47.12872047</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432737E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-28 15:45:49</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.24642997,47.12872047,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta8</name>
+      <description><![CDATA[unnamed (1): 7<br>taxon_orig: Poaceae<br>x: 7.24626887<br>y: 47.1287421<br>obs_id: 11432728<br>date: 2022-02-28 15:55:40]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>7.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.24626887</value>
+        </Data>
+        <Data name="y">
+          <value>47.1287421</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432728E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-28 15:55:40</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.24626887,47.1287421,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta9</name>
+      <description><![CDATA[unnamed (1): 8<br>taxon_orig: Poaceae<br>x: 7.24585933<br>y: 47.12833436<br>obs_id: 11432721<br>date: 2022-02-28 16:00:25]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>8.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.24585933</value>
+        </Data>
+        <Data name="y">
+          <value>47.12833436</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432721E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-28 16:00:25</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.24585933,47.12833436,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta10</name>
+      <description><![CDATA[unnamed (1): 9<br>taxon_orig: Poaceae<br>x: 7.24235376<br>y: 47.12832824<br>obs_id: 11432714<br>date: 2022-03-01 09:02:04]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>9.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.24235376</value>
+        </Data>
+        <Data name="y">
+          <value>47.12832824</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432714E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-01 09:02:04</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.24235376,47.12832824,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta11</name>
+      <description><![CDATA[unnamed (1): 10<br>taxon_orig: Poaceae<br>x: 7.26127884<br>y: 47.14330335<br>obs_id: 11432712<br>date: 2022-03-01 16:17:10]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>10.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.26127884</value>
+        </Data>
+        <Data name="y">
+          <value>47.14330335</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432712E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-01 16:17:10</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.26127884,47.14330335,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta12</name>
+      <description><![CDATA[unnamed (1): 11<br>taxon_orig: Poaceae<br>x: 7.23888927<br>y: 47.13408766<br>obs_id: 11432706<br>date: 2022-03-02 10:20:15]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>11.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.23888927</value>
+        </Data>
+        <Data name="y">
+          <value>47.13408766</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432706E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-02 10:20:15</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.23888927,47.13408766,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta13</name>
+      <description><![CDATA[unnamed (1): 12<br>taxon_orig: Poaceae<br>x: 7.23756275<br>y: 47.13627827<br>obs_id: 11432703<br>date: 2022-03-02 10:27:36]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>12.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.23756275</value>
+        </Data>
+        <Data name="y">
+          <value>47.13627827</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432703E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-02 10:27:36</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.23756275,47.13627827,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta14</name>
+      <description><![CDATA[unnamed (1): 13<br>taxon_orig: Poaceae<br>x: 7.23782502<br>y: 47.1349023<br>obs_id: 11432699<br>date: 2022-03-02 10:32:17]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>13.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.23782502</value>
+        </Data>
+        <Data name="y">
+          <value>47.1349023</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432699E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-02 10:32:17</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.23782502,47.1349023,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta16</name>
+      <description><![CDATA[unnamed (1): 14<br>taxon_orig: Poaceae<br>x: 7.23979879<br>y: 47.13490749<br>obs_id: 11432690<br>date: 2022-03-02 10:42:59]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>14.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.23979879</value>
+        </Data>
+        <Data name="y">
+          <value>47.13490749</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.143269E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-02 10:42:59</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.23979879,47.13490749,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta17</name>
+      <description><![CDATA[unnamed (1): 15<br>taxon_orig: Poaceae<br>x: 7.2397801<br>y: 47.13491818<br>obs_id: 11432682<br>date: 2022-03-02 11:21:32]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>15.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.2397801</value>
+        </Data>
+        <Data name="y">
+          <value>47.13491818</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432682E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-02 11:21:32</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.2397801,47.13491818,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta18</name>
+      <description><![CDATA[unnamed (1): 16<br>taxon_orig: Poaceae<br>x: 7.23975722<br>y: 47.13435093<br>obs_id: 11432676<br>date: 2022-03-02 11:26:53]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>16.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.23975722</value>
+        </Data>
+        <Data name="y">
+          <value>47.13435093</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432676E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-02 11:26:53</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.23975722,47.13435093,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta20</name>
+      <description><![CDATA[unnamed (1): 17<br>taxon_orig: Poaceae<br>x: 7.25289945<br>y: 47.13736989<br>obs_id: 11432659<br>date: 2022-03-05 17:30:18]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>17.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25289945</value>
+        </Data>
+        <Data name="y">
+          <value>47.13736989</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432659E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-05 17:30:18</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25289945,47.13736989,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta21</name>
+      <description><![CDATA[unnamed (1): 18<br>taxon_orig: Poaceae<br>x: 7.25301404<br>y: 47.13757583<br>obs_id: 11432655<br>date: 2022-03-05 17:31:20]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>18.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25301404</value>
+        </Data>
+        <Data name="y">
+          <value>47.13757583</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432655E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-05 17:31:20</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25301404,47.13757583,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta22</name>
+      <description><![CDATA[unnamed (1): 19<br>taxon_orig: Poaceae<br>x: 7.25316089<br>y: 47.13732592<br>obs_id: 11432644<br>date: 2022-03-05 17:37:22]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>19.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25316089</value>
+        </Data>
+        <Data name="y">
+          <value>47.13732592</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432644E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-05 17:37:22</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25316089,47.13732592,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta23</name>
+      <description><![CDATA[unnamed (1): 20<br>taxon_orig: Poaceae<br>x: 7.254191<br>y: 47.1396734<br>obs_id: 11432642<br>date: 2022-03-05 17:49:09]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>20.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.254191</value>
+        </Data>
+        <Data name="y">
+          <value>47.1396734</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432642E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-05 17:49:09</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.254191,47.1396734,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta24</name>
+      <description><![CDATA[unnamed (1): 21<br>taxon_orig: Poaceae<br>x: 7.25535762<br>y: 47.14001706<br>obs_id: 11432638<br>date: 2022-03-05 17:54:21]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>21.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25535762</value>
+        </Data>
+        <Data name="y">
+          <value>47.14001706</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432638E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-05 17:54:21</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25535762,47.14001706,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta25</name>
+      <description><![CDATA[unnamed (1): 22<br>taxon_orig: Poaceae<br>x: 7.25604745<br>y: 47.14026156<br>obs_id: 11432632<br>date: 2022-03-05 17:59:13]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>22.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25604745</value>
+        </Data>
+        <Data name="y">
+          <value>47.14026156</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432632E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-05 17:59:13</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25604745,47.14026156,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta26</name>
+      <description><![CDATA[unnamed (1): 23<br>taxon_orig: Poaceae<br>x: 7.25682478<br>y: 47.13388389<br>obs_id: 11432620<br>date: 2022-03-06 08:55:35]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>23.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25682478</value>
+        </Data>
+        <Data name="y">
+          <value>47.13388389</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.143262E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-06 08:55:35</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25682478,47.13388389,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta27</name>
+      <description><![CDATA[unnamed (1): 24<br>taxon_orig: Poaceae<br>x: 7.25460249<br>y: 47.13801923<br>obs_id: 11432618<br>date: 2022-03-06 09:04:15]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>24.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25460249</value>
+        </Data>
+        <Data name="y">
+          <value>47.13801923</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432618E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-06 09:04:15</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25460249,47.13801923,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta28</name>
+      <description><![CDATA[unnamed (1): 25<br>taxon_orig: Poaceae<br>x: 7.25165332<br>y: 47.13666857<br>obs_id: 11432616<br>date: 2022-03-06 09:11:50]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>25.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25165332</value>
+        </Data>
+        <Data name="y">
+          <value>47.13666857</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432616E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-06 09:11:50</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25165332,47.13666857,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta29</name>
+      <description><![CDATA[unnamed (1): 26<br>taxon_orig: Poaceae<br>x: 7.25280642<br>y: 47.13686714<br>obs_id: 11432607<br>date: 2022-03-06 09:28:37]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>26.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25280642</value>
+        </Data>
+        <Data name="y">
+          <value>47.13686714</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432607E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-06 09:28:37</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25280642,47.13686714,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta30</name>
+      <description><![CDATA[unnamed (1): 27<br>taxon_orig: Poaceae<br>x: 7.25443929<br>y: 47.13700226<br>obs_id: 11432599<br>date: 2022-03-06 16:33:03]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>27.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25443929</value>
+        </Data>
+        <Data name="y">
+          <value>47.13700226</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432599E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-06 16:33:03</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25443929,47.13700226,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta31</name>
+      <description><![CDATA[unnamed (1): 28<br>taxon_orig: Poaceae<br>x: 7.27028922<br>y: 47.14737914<br>obs_id: 11432597<br>date: 2022-03-07 16:11:22]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>28.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.27028922</value>
+        </Data>
+        <Data name="y">
+          <value>47.14737914</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432597E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-07 16:11:22</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.27028922,47.14737914,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta31</name>
+      <description><![CDATA[unnamed (1): 29<br>taxon_orig: Poaceae<br>x: 7.27090378<br>y: 47.14785611<br>obs_id: 11432588<br>date: 2022-03-07 16:18:48]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>29.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.27090378</value>
+        </Data>
+        <Data name="y">
+          <value>47.14785611</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432588E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-07 16:18:48</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.27090378,47.14785611,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta32</name>
+      <description><![CDATA[unnamed (1): 30<br>taxon_orig: Poaceae<br>x: 7.27121207<br>y: 47.1481426<br>obs_id: 11432583<br>date: 2022-03-07 16:24:38]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>30.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.27121207</value>
+        </Data>
+        <Data name="y">
+          <value>47.1481426</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432583E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-07 16:24:38</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.27121207,47.1481426,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta33</name>
+      <description><![CDATA[unnamed (1): 31<br>taxon_orig: Poaceae<br>x: 7.25938068<br>y: 47.13763211<br>obs_id: 11432580<br>date: 2022-03-08 18:00:30]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>31.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25938068</value>
+        </Data>
+        <Data name="y">
+          <value>47.13763211</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.143258E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-08 18:00:30</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25938068,47.13763211,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta34</name>
+      <description><![CDATA[unnamed (1): 32<br>taxon_orig: Poaceae<br>x: 7.25804561<br>y: 47.13826046<br>obs_id: 11432575<br>date: 2022-03-08 18:06:17]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>32.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25804561</value>
+        </Data>
+        <Data name="y">
+          <value>47.13826046</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432575E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-08 18:06:17</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25804561,47.13826046,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta35</name>
+      <description><![CDATA[unnamed (1): 33<br>taxon_orig: Poaceae<br>x: 7.24722583<br>y: 47.13155171<br>obs_id: 11432572<br>date: 2022-03-09 11:15:02]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>33.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.24722583</value>
+        </Data>
+        <Data name="y">
+          <value>47.13155171</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432572E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-09 11:15:02</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.24722583,47.13155171,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta36</name>
+      <description><![CDATA[unnamed (1): 34<br>taxon_orig: Poaceae<br>x: 7.24679626<br>y: 47.13166831<br>obs_id: 11432569<br>date: 2022-03-09 11:19:14]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>34.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.24679626</value>
+        </Data>
+        <Data name="y">
+          <value>47.13166831</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432569E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-09 11:19:14</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.24679626,47.13166831,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[unnamed (1): 35<br>taxon_orig: Poaceae<br>x: 7.2466172<br>y: 47.1318801<br>obs_id: 11432564<br>date: 2022-03-09 11:27:45]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>35.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.2466172</value>
+        </Data>
+        <Data name="y">
+          <value>47.1318801</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432564E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-09 11:27:45</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.2466172,47.1318801,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta38</name>
+      <description><![CDATA[unnamed (1): 36<br>taxon_orig: Poaceae<br>x: 7.24615429<br>y: 47.13189076<br>obs_id: 11432562<br>date: 2022-03-09 11:30:29]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>36.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.24615429</value>
+        </Data>
+        <Data name="y">
+          <value>47.13189076</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432562E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-09 11:30:29</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.24615429,47.13189076,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta39</name>
+      <description><![CDATA[unnamed (1): 37<br>taxon_orig: Poaceae<br>x: 7.26148286<br>y: 47.14323969<br>obs_id: 11432554<br>date: 2022-03-10 10:51:31]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>37.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.26148286</value>
+        </Data>
+        <Data name="y">
+          <value>47.14323969</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432554E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-10 10:51:31</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.26148286,47.14323969,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta40</name>
+      <description><![CDATA[unnamed (1): 38<br>taxon_orig: Poaceae<br>x: 7.26281466<br>y: 47.14399792<br>obs_id: 11432546<br>date: 2022-03-10 11:04:28]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>38.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.26281466</value>
+        </Data>
+        <Data name="y">
+          <value>47.14399792</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432546E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-10 11:04:28</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.26281466,47.14399792,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta41</name>
+      <description><![CDATA[unnamed (1): 39<br>taxon_orig: Poaceae<br>x: 7.26315086<br>y: 47.12587524<br>obs_id: 11432535<br>date: 2022-03-10 18:17:56]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>39.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.26315086</value>
+        </Data>
+        <Data name="y">
+          <value>47.12587524</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432535E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-10 18:17:56</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.26315086,47.12587524,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ta42</name>
+      <description><![CDATA[unnamed (1): 40<br>taxon_orig: Poaceae<br>x: 7.26344498<br>y: 47.12608374<br>obs_id: 11432523<br>date: 2022-03-10 18:27:03]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>40.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.26344498</value>
+        </Data>
+        <Data name="y">
+          <value>47.12608374</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432523E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-10 18:27:03</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.26344498,47.12608374,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA44</name>
+      <description><![CDATA[unnamed (1): 41<br>taxon_orig: Poaceae<br>x: 7.23437327<br>y: 47.13564451<br>obs_id: 11432507<br>date: 2022-03-12 13:37:33]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>41.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.23437327</value>
+        </Data>
+        <Data name="y">
+          <value>47.13564451</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432507E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-12 13:37:33</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.23437327,47.13564451,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA45</name>
+      <description><![CDATA[unnamed (1): 42<br>taxon_orig: Poaceae<br>x: 7.25772701<br>y: 47.13352083<br>obs_id: 11432490<br>date: 2022-03-12 17:06:44]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>42.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25772701</value>
+        </Data>
+        <Data name="y">
+          <value>47.13352083</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.143249E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-12 17:06:44</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25772701,47.13352083,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA46</name>
+      <description><![CDATA[unnamed (1): 43<br>taxon_orig: Poaceae<br>x: 7.25875564<br>y: 47.13178737<br>obs_id: 11432477<br>date: 2022-03-12 17:25:35]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>43.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25875564</value>
+        </Data>
+        <Data name="y">
+          <value>47.13178737</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432477E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-12 17:25:35</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25875564,47.13178737,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA47</name>
+      <description><![CDATA[unnamed (1): 44<br>taxon_orig: Poaceae<br>x: 7.26457268<br>y: 47.13872604<br>obs_id: 11432459<br>date: 2022-03-13 11:01:47]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>44.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.26457268</value>
+        </Data>
+        <Data name="y">
+          <value>47.13872604</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432459E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-13 11:01:47</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.26457268,47.13872604,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA48</name>
+      <description><![CDATA[unnamed (1): 45<br>taxon_orig: Poaceae<br>x: 7.26458064<br>y: 47.14007095<br>obs_id: 11432447<br>date: 2022-03-13 11:13:00]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>45.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.26458064</value>
+        </Data>
+        <Data name="y">
+          <value>47.14007095</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432447E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-13 11:13:00</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.26458064,47.14007095,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA49</name>
+      <description><![CDATA[unnamed (1): 46<br>taxon_orig: Poaceae<br>x: 7.2629899<br>y: 47.1399208<br>obs_id: 11432434<br>date: 2022-03-13 11:27:57]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>46.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.2629899</value>
+        </Data>
+        <Data name="y">
+          <value>47.1399208</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432434E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-13 11:27:57</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.2629899,47.1399208,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA50</name>
+      <description><![CDATA[unnamed (1): 47<br>taxon_orig: Poaceae<br>x: 7.2391134<br>y: 47.12711094<br>obs_id: 11432426<br>date: 2022-03-14 13:09:14]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>47.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.2391134</value>
+        </Data>
+        <Data name="y">
+          <value>47.12711094</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432426E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-14 13:09:14</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.2391134,47.12711094,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA52</name>
+      <description><![CDATA[unnamed (1): 48<br>taxon_orig: Poaceae<br>x: 7.27139622<br>y: 47.15040106<br>obs_id: 11432414<br>date: 2022-03-14 16:08:06]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>48.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.27139622</value>
+        </Data>
+        <Data name="y">
+          <value>47.15040106</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432414E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-14 16:08:06</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.27139622,47.15040106,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA53</name>
+      <description><![CDATA[unnamed (1): 49<br>taxon_orig: Poaceae<br>x: 7.27067227<br>y: 47.1513302<br>obs_id: 11432405<br>date: 2022-03-14 16:17:43]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>49.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.27067227</value>
+        </Data>
+        <Data name="y">
+          <value>47.1513302</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432405E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-14 16:17:43</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.27067227,47.1513302,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA54</name>
+      <description><![CDATA[unnamed (1): 50<br>taxon_orig: Poaceae<br>x: 7.24000574<br>y: 47.12928998<br>obs_id: 11432395<br>date: 2022-03-16 10:59:39]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>50.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.24000574</value>
+        </Data>
+        <Data name="y">
+          <value>47.12928998</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432395E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-16 10:59:39</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.24000574,47.12928998,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA56</name>
+      <description><![CDATA[unnamed (1): 51<br>taxon_orig: Poaceae<br>x: 7.24098332<br>y: 47.12810738<br>obs_id: 11432380<br>date: 2022-03-16 11:28:59]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>51.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.24098332</value>
+        </Data>
+        <Data name="y">
+          <value>47.12810738</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.143238E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-16 11:28:59</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.24098332,47.12810738,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA57</name>
+      <description><![CDATA[unnamed (1): 52<br>taxon_orig: Poaceae<br>x: 7.26151664<br>y: 47.14317502<br>obs_id: 11432371<br>date: 2022-03-17 08:47:52]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>52.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.26151664</value>
+        </Data>
+        <Data name="y">
+          <value>47.14317502</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432371E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-17 08:47:52</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.26151664,47.14317502,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA58</name>
+      <description><![CDATA[unnamed (1): 53<br>taxon_orig: Poaceae<br>x: 7.26049363<br>y: 47.1379689<br>obs_id: 11432365<br>date: 2022-03-19 17:43:50]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>53.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.26049363</value>
+        </Data>
+        <Data name="y">
+          <value>47.1379689</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432365E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-19 17:43:50</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.26049363,47.1379689,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA59</name>
+      <description><![CDATA[unnamed (1): 54<br>taxon_orig: Poaceae<br>x: 7.2602016<br>y: 47.13745861<br>obs_id: 11432359<br>date: 2022-03-19 17:53:09]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>54.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.2602016</value>
+        </Data>
+        <Data name="y">
+          <value>47.13745861</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432359E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-19 17:53:09</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.2602016,47.13745861,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA60</name>
+      <description><![CDATA[unnamed (1): 55<br>taxon_orig: Poaceae<br>x: 7.2606397<br>y: 47.1377639<br>obs_id: 11432351<br>date: 2022-03-19 18:00:58]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>55.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.2606397</value>
+        </Data>
+        <Data name="y">
+          <value>47.1377639</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432351E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-19 18:00:58</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.2606397,47.1377639,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA61</name>
+      <description><![CDATA[unnamed (1): 56<br>taxon_orig: Poaceae<br>x: 7.25959743<br>y: 47.1275789<br>obs_id: 11432341<br>date: 2022-03-20 08:41:13]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>56.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25959743</value>
+        </Data>
+        <Data name="y">
+          <value>47.1275789</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432341E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-20 08:41:13</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25959743,47.1275789,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA62</name>
+      <description><![CDATA[unnamed (1): 57<br>taxon_orig: Poaceae<br>x: 7.25825273<br>y: 47.12770027<br>obs_id: 11432334<br>date: 2022-03-20 08:45:58]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>57.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25825273</value>
+        </Data>
+        <Data name="y">
+          <value>47.12770027</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432334E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-20 08:45:58</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25825273,47.12770027,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA63</name>
+      <description><![CDATA[unnamed (1): 58<br>taxon_orig: Poaceae<br>x: 7.24539421<br>y: 47.14880766<br>obs_id: 11432323<br>date: 2022-03-20 13:50:02]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>58.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.24539421</value>
+        </Data>
+        <Data name="y">
+          <value>47.14880766</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432323E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-20 13:50:02</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.24539421,47.14880766,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA64</name>
+      <description><![CDATA[unnamed (1): 59<br>taxon_orig: Poaceae<br>x: 7.22573681<br>y: 47.13416498<br>obs_id: 11432314<br>date: 2022-03-22 10:42:31]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>59.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.22573681</value>
+        </Data>
+        <Data name="y">
+          <value>47.13416498</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432314E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-22 10:42:31</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.22573681,47.13416498,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA65</name>
+      <description><![CDATA[unnamed (1): 60<br>taxon_orig: Poaceae<br>x: 7.25910206<br>y: 47.12275051<br>obs_id: 11432301<br>date: 2022-03-22 17:15:13]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>60.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25910206</value>
+        </Data>
+        <Data name="y">
+          <value>47.12275051</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432301E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-22 17:15:13</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25910206,47.12275051,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA66</name>
+      <description><![CDATA[unnamed (1): 61<br>taxon_orig: Poaceae<br>x: 7.26174823<br>y: 47.12447647<br>obs_id: 11432287<br>date: 2022-03-22 17:42:42]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>61.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.26174823</value>
+        </Data>
+        <Data name="y">
+          <value>47.12447647</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432287E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-22 17:42:42</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.26174823,47.12447647,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA67</name>
+      <description><![CDATA[unnamed (1): 62<br>taxon_orig: Poaceae<br>x: 7.26598922<br>y: 47.1448232<br>obs_id: 11432276<br>date: 2022-03-24 10:53:54]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>62.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.26598922</value>
+        </Data>
+        <Data name="y">
+          <value>47.1448232</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432276E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-24 10:53:54</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.26598922,47.1448232,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA69</name>
+      <description><![CDATA[unnamed (1): 63<br>taxon_orig: Poaceae<br>x: 7.25862312<br>y: 47.12931354<br>obs_id: 11432262<br>date: 2022-03-26 09:34:36]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>63.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25862312</value>
+        </Data>
+        <Data name="y">
+          <value>47.12931354</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432262E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-26 09:34:36</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25862312,47.12931354,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA70</name>
+      <description><![CDATA[unnamed (1): 64<br>taxon_orig: Poaceae<br>x: 7.25936299<br>y: 47.12819627<br>obs_id: 11432246<br>date: 2022-03-26 09:53:33]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>64.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25936299</value>
+        </Data>
+        <Data name="y">
+          <value>47.12819627</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432246E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-26 09:53:33</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25936299,47.12819627,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alleestrasse-madretschkanal-1</name>
+      <description><![CDATA[unnamed (1): 65<br>taxon_orig: Poaceae<br>x: 7.25270005<br>y: 47.13599018<br>obs_id: 11432239<br>date: 2022-03-26 17:03:14]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>65.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25270005</value>
+        </Data>
+        <Data name="y">
+          <value>47.13599018</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432239E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-26 17:03:14</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25270005,47.13599018,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alleestrasse-madretschkanal-2</name>
+      <description><![CDATA[unnamed (1): 66<br>taxon_orig: Poaceae<br>x: 7.25266283<br>y: 47.13634922<br>obs_id: 11432236<br>date: 2022-03-26 17:07:54]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>66.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25266283</value>
+        </Data>
+        <Data name="y">
+          <value>47.13634922</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432236E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-26 17:07:54</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25266283,47.13634922,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alleestrasse-madretschkanal-3</name>
+      <description><![CDATA[unnamed (1): 67<br>taxon_orig: Poaceae<br>x: 7.25266166<br>y: 47.13656996<br>obs_id: 11432234<br>date: 2022-03-26 17:09:57]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>67.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25266166</value>
+        </Data>
+        <Data name="y">
+          <value>47.13656996</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432234E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-26 17:09:57</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25266166,47.13656996,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA71</name>
+      <description><![CDATA[unnamed (1): 68<br>taxon_orig: Poaceae<br>x: 7.25275068<br>y: 47.13743447<br>obs_id: 11432223<br>date: 2022-03-26 17:25:18]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>68.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25275068</value>
+        </Data>
+        <Data name="y">
+          <value>47.13743447</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432223E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-26 17:25:18</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25275068,47.13743447,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA72</name>
+      <description><![CDATA[unnamed (1): 69<br>taxon_orig: Poaceae<br>x: 7.25269712<br>y: 47.13732379<br>obs_id: 11432219<br>date: 2022-03-26 17:28:32]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>69.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25269712</value>
+        </Data>
+        <Data name="y">
+          <value>47.13732379</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432219E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-26 17:28:32</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25269712,47.13732379,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA73</name>
+      <description><![CDATA[unnamed (1): 70<br>taxon_orig: Poaceae<br>x: 7.25642773<br>y: 47.14036176<br>obs_id: 11432210<br>date: 2022-03-26 17:59:25]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>70.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25642773</value>
+        </Data>
+        <Data name="y">
+          <value>47.14036176</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.143221E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-26 17:59:25</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25642773,47.14036176,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA9</name>
+      <description><![CDATA[unnamed (1): 71<br>taxon_orig: Poaceae<br>x: 7.2459543<br>y: 47.1284028<br>obs_id: 11432128<br>date: 2022-03-28 12:17:19]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>71.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.2459543</value>
+        </Data>
+        <Data name="y">
+          <value>47.1284028</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432128E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-28 12:17:19</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.2459543,47.1284028,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA8</name>
+      <description><![CDATA[unnamed (1): 72<br>taxon_orig: Poaceae<br>x: 7.24635436<br>y: 47.12877194<br>obs_id: 11432127<br>date: 2022-03-28 12:18:08]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>72.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.24635436</value>
+        </Data>
+        <Data name="y">
+          <value>47.12877194</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432127E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-28 12:18:08</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.24635436,47.12877194,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA7</name>
+      <description><![CDATA[unnamed (1): 73<br>taxon_orig: Poaceae<br>x: 7.24646735<br>y: 47.12872173<br>obs_id: 11432126<br>date: 2022-03-28 12:18:51]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>73.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.24646735</value>
+        </Data>
+        <Data name="y">
+          <value>47.12872173</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432126E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-28 12:18:51</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.24646735,47.12872173,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA76</name>
+      <description><![CDATA[unnamed (1): 74<br>taxon_orig: Poaceae<br>x: 7.24338499<br>y: 47.12514932<br>obs_id: 11432111<br>date: 2022-03-28 12:35:17]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>74.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.24338499</value>
+        </Data>
+        <Data name="y">
+          <value>47.12514932</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432111E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-28 12:35:17</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.24338499,47.12514932,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA78</name>
+      <description><![CDATA[unnamed (1): 75<br>taxon_orig: Dactylis glomerata<br>x: 7.25651197<br>y: 47.14183866<br>obs_id: 11432089<br>date: 2022-03-29 17:14:26]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>75.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Dactylis glomerata</value>
+        </Data>
+        <Data name="x">
+          <value>7.25651197</value>
+        </Data>
+        <Data name="y">
+          <value>47.14183866</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432089E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-29 17:14:26</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25651197,47.14183866,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA79</name>
+      <description><![CDATA[unnamed (1): 76<br>taxon_orig: Poaceae<br>x: 7.25759667<br>y: 47.14218236<br>obs_id: 11432079<br>date: 2022-03-29 17:25:34]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>76.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25759667</value>
+        </Data>
+        <Data name="y">
+          <value>47.14218236</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432079E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-29 17:25:34</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25759667,47.14218236,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA80</name>
+      <description><![CDATA[unnamed (1): 77<br>taxon_orig: Anthoxanthum odoratum aggr.<br>x: 7.25870853<br>y: 47.14235435<br>obs_id: 11432070<br>date: 2022-03-29 17:48:07]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>77.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Anthoxanthum odoratum aggr.</value>
+        </Data>
+        <Data name="x">
+          <value>7.25870853</value>
+        </Data>
+        <Data name="y">
+          <value>47.14235435</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.143207E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-29 17:48:07</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25870853,47.14235435,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA80</name>
+      <description><![CDATA[unnamed (1): 78<br>taxon_orig: Poaceae<br>x: 7.25863318<br>y: 47.14243369<br>obs_id: 11432068<br>date: 2022-03-29 17:49:00]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>78.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25863318</value>
+        </Data>
+        <Data name="y">
+          <value>47.14243369</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432068E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-29 17:49:00</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25863318,47.14243369,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cdf1</name>
+      <description><![CDATA[unnamed (1): 79<br>taxon_orig: Poaceae<br>x: 6.81071953<br>y: 47.0899789<br>obs_id: 11432064<br>date: 2022-03-30 12:54:54]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>79.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>6.81071953</value>
+        </Data>
+        <Data name="y">
+          <value>47.0899789</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432064E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-03-30 12:54:54</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          6.81071953,47.0899789,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA5</name>
+      <description><![CDATA[unnamed (1): 80<br>taxon_orig: Poaceae<br>x: 7.25814317<br>y: 47.12644324<br>obs_id: 11432048<br>date: 2022-04-03 11:32:55]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>80.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25814317</value>
+        </Data>
+        <Data name="y">
+          <value>47.12644324</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432048E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-04-03 11:32:55</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25814317,47.12644324,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA81</name>
+      <description><![CDATA[unnamed (1): 81<br>taxon_orig: Poaceae<br>x: 7.25814309<br>y: 47.12648112<br>obs_id: 11432037<br>date: 2022-04-03 11:42:38]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>81.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25814309</value>
+        </Data>
+        <Data name="y">
+          <value>47.12648112</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432037E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-04-03 11:42:38</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25814309,47.12648112,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA83</name>
+      <description><![CDATA[unnamed (1): 82<br>taxon_orig: Poaceae<br>x: 7.2634327<br>y: 47.1401793<br>obs_id: 11432013<br>date: 2022-04-03 16:20:18]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>82.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.2634327</value>
+        </Data>
+        <Data name="y">
+          <value>47.1401793</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1432013E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-04-03 16:20:18</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.2634327,47.1401793,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA84</name>
+      <description><![CDATA[unnamed (1): 83<br>taxon_orig: Poaceae<br>x: 7.26256136<br>y: 47.13874724<br>obs_id: 11431986<br>date: 2022-04-03 16:45:06]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>83.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.26256136</value>
+        </Data>
+        <Data name="y">
+          <value>47.13874724</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1431986E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-04-03 16:45:06</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.26256136,47.13874724,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA82</name>
+      <description><![CDATA[unnamed (1): 84<br>taxon_orig: Poaceae<br>x: 7.25890987<br>y: 47.12659939<br>obs_id: 11431985<br>date: 2022-04-03 16:58:45]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>84.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25890987</value>
+        </Data>
+        <Data name="y">
+          <value>47.12659939</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1431985E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-04-03 16:58:45</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25890987,47.12659939,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA85</name>
+      <description><![CDATA[unnamed (1): 85<br>taxon_orig: Poaceae<br>x: 7.24308022<br>y: 47.13154673<br>obs_id: 11431969<br>date: 2022-04-06 11:25:33]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>85.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.24308022</value>
+        </Data>
+        <Data name="y">
+          <value>47.13154673</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1431969E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-04-06 11:25:33</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.24308022,47.13154673,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA86</name>
+      <description><![CDATA[unnamed (1): 86<br>taxon_orig: Poaceae<br>x: 7.2425704<br>y: 47.1316372<br>obs_id: 11431961<br>date: 2022-04-06 11:32:36]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>86.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.2425704</value>
+        </Data>
+        <Data name="y">
+          <value>47.1316372</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1431961E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-04-06 11:32:36</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.2425704,47.1316372,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cdf3</name>
+      <description><![CDATA[unnamed (1): 87<br>taxon_orig: Poaceae<br>x: 6.8052806<br>y: 47.086744<br>obs_id: 11431951<br>date: 2022-04-06 16:11:39]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>87.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>6.8052806</value>
+        </Data>
+        <Data name="y">
+          <value>47.086744</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1431951E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-04-06 16:11:39</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          6.8052806,47.086744,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[unnamed (1): 88<br>taxon_orig: Poaceae<br>x: 7.27489709<br>y: 47.12168647<br>obs_id: 11431938<br>date: 2022-04-09 11:14:15]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>88.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.27489709</value>
+        </Data>
+        <Data name="y">
+          <value>47.12168647</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1431938E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-04-09 11:14:15</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.27489709,47.12168647,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Freiburgstrasse-madretschkanal-1</name>
+      <description><![CDATA[unnamed (1): 89<br>taxon_orig: Poaceae<br>x: 7.24764115<br>y: 47.13142674<br>obs_id: 11431927<br>date: 2022-04-09 16:34:51]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>89.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.24764115</value>
+        </Data>
+        <Data name="y">
+          <value>47.13142674</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1431927E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-04-09 16:34:51</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.24764115,47.13142674,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA88</name>
+      <description><![CDATA[unnamed (1): 90<br>taxon_orig: Poaceae<br>x: 7.27189578<br>y: 47.14425323<br>obs_id: 11431900<br>date: 2022-04-09 17:18:37]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>90.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.27189578</value>
+        </Data>
+        <Data name="y">
+          <value>47.14425323</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.14319E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-04-09 17:18:37</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.27189578,47.14425323,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA89</name>
+      <description><![CDATA[unnamed (1): 91<br>taxon_orig: Poaceae<br>x: 7.27157593<br>y: 47.14405374<br>obs_id: 11431892<br>date: 2022-04-09 17:25:15]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>91.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.27157593</value>
+        </Data>
+        <Data name="y">
+          <value>47.14405374</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1431892E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-04-09 17:25:15</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.27157593,47.14405374,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA90</name>
+      <description><![CDATA[unnamed (1): 92<br>taxon_orig: Poaceae<br>x: 7.2713994<br>y: 47.1442816<br>obs_id: 11431882<br>date: 2022-04-09 17:30:36]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>92.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.2713994</value>
+        </Data>
+        <Data name="y">
+          <value>47.1442816</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1431882E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-04-09 17:30:36</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.2713994,47.1442816,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA91</name>
+      <description><![CDATA[unnamed (1): 93<br>taxon_orig: Poaceae<br>x: 7.27151717<br>y: 47.1442583<br>obs_id: 11431872<br>date: 2022-04-09 17:38:50]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>93.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.27151717</value>
+        </Data>
+        <Data name="y">
+          <value>47.1442583</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1431872E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-04-09 17:38:50</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.27151717,47.1442583,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bern1</name>
+      <description><![CDATA[unnamed (1): 94<br>taxon_orig: Poaceae<br>x: 7.43864276<br>y: 46.95303507<br>obs_id: 11431864<br>date: 2022-04-12 13:14:49]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>94.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.43864276</value>
+        </Data>
+        <Data name="y">
+          <value>46.95303507</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1431864E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-04-12 13:14:49</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.43864276,46.95303507,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[unnamed (1): 95<br>taxon_orig: Poaceae<br>x: 7.2412124<br>y: 47.133372<br>obs_id: 11431854<br>date: 2022-04-13 11:39:53]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>95.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.2412124</value>
+        </Data>
+        <Data name="y">
+          <value>47.133372</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1431854E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-04-13 11:39:53</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.2412124,47.133372,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cffdepot-berm-1</name>
+      <description><![CDATA[unnamed (1): 96<br>taxon_orig: Poaceae<br>x: 7.2550034<br>y: 47.13023886<br>obs_id: 11431829<br>date: 2022-04-13 19:25:18]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>96.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.2550034</value>
+        </Data>
+        <Data name="y">
+          <value>47.13023886</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1431829E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-04-13 19:25:18</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.2550034,47.13023886,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA93</name>
+      <description><![CDATA[unnamed (1): 97<br>taxon_orig: Poaceae<br>x: 7.2536361<br>y: 47.1305947<br>obs_id: 11431819<br>date: 2022-04-13 19:37:33]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>97.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.2536361</value>
+        </Data>
+        <Data name="y">
+          <value>47.1305947</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1431819E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-04-13 19:37:33</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.2536361,47.1305947,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA94</name>
+      <description><![CDATA[unnamed (1): 98<br>taxon_orig: Poaceae<br>x: 7.26230227<br>y: 47.14391758<br>obs_id: 11431802<br>date: 2022-04-14 08:33:49]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>98.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.26230227</value>
+        </Data>
+        <Data name="y">
+          <value>47.14391758</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1431802E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-04-14 08:33:49</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.26230227,47.14391758,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA95</name>
+      <description><![CDATA[unnamed (1): 99<br>taxon_orig: Poaceae<br>x: 7.26608151<br>y: 47.14592291<br>obs_id: 11431790<br>date: 2022-04-14 10:46:15]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>99.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.26608151</value>
+        </Data>
+        <Data name="y">
+          <value>47.14592291</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.143179E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-04-14 10:46:15</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.26608151,47.14592291,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA96</name>
+      <description><![CDATA[unnamed (1): 100<br>taxon_orig: Poaceae<br>x: 7.26662776<br>y: 47.14627415<br>obs_id: 11431778<br>date: 2022-04-14 10:57:50]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>100.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.26662776</value>
+        </Data>
+        <Data name="y">
+          <value>47.14627415</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1431778E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-04-14 10:57:50</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.26662776,47.14627415,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA97</name>
+      <description><![CDATA[unnamed (1): 101<br>taxon_orig: Poaceae<br>x: 7.26170196<br>y: 47.14375442<br>obs_id: 11431764<br>date: 2022-04-14 11:14:03]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>101.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.26170196</value>
+        </Data>
+        <Data name="y">
+          <value>47.14375442</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1431764E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-04-14 11:14:03</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.26170196,47.14375442,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA98</name>
+      <description><![CDATA[unnamed (1): 102<br>taxon_orig: Poaceae<br>x: 7.26047074<br>y: 47.12859797<br>obs_id: 11431747<br>date: 2022-04-14 18:38:56]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>102.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.26047074</value>
+        </Data>
+        <Data name="y">
+          <value>47.12859797</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1431747E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-04-14 18:38:56</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.26047074,47.12859797,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA3</name>
+      <description><![CDATA[unnamed (1): 103<br>taxon_orig: Poaceae<br>x: 7.24649644<br>y: 47.12992143<br>obs_id: 11431710<br>date: 2022-04-15 17:09:29]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>103.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.24649644</value>
+        </Data>
+        <Data name="y">
+          <value>47.12992143</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.143171E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-04-15 17:09:29</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.24649644,47.12992143,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA1</name>
+      <description><![CDATA[unnamed (1): 104<br>taxon_orig: Poaceae<br>x: 7.25182657<br>y: 47.12994155<br>obs_id: 11431661<br>date: 2022-04-16 08:23:44]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>104.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25182657</value>
+        </Data>
+        <Data name="y">
+          <value>47.12994155</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1431661E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-04-16 08:23:44</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25182657,47.12994155,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA2</name>
+      <description><![CDATA[unnamed (1): 105<br>taxon_orig: Poaceae<br>x: 7.25157042<br>y: 47.12990094<br>obs_id: 11431660<br>date: 2022-04-16 08:26:49]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>105.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25157042</value>
+        </Data>
+        <Data name="y">
+          <value>47.12990094</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.143166E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-04-16 08:26:49</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25157042,47.12990094,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA102</name>
+      <description><![CDATA[unnamed (1): 106<br>taxon_orig: Poaceae<br>x: 7.25422698<br>y: 47.12929145<br>obs_id: 11431637<br>date: 2022-04-16 08:50:34]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>106.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25422698</value>
+        </Data>
+        <Data name="y">
+          <value>47.12929145</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1431637E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-04-16 08:50:34</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25422698,47.12929145,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TA103</name>
+      <description><![CDATA[unnamed (1): 107<br>taxon_orig: Poaceae<br>x: 7.2541528<br>y: 47.13000689<br>obs_id: 11431620<br>date: 2022-04-16 09:04:44]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>107.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.2541528</value>
+        </Data>
+        <Data name="y">
+          <value>47.13000689</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.143162E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-04-16 09:04:44</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.2541528,47.13000689,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alleestrasse-Madretschkanal-1</name>
+      <description><![CDATA[unnamed (1): 109<br>taxon_orig: Poaceae<br>x: 7.2530821<br>y: 47.13575608<br>obs_id: 11356251<br>date: 2022-02-06 09:52:30]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>109.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.2530821</value>
+        </Data>
+        <Data name="y">
+          <value>47.13575608</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356251E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-06 09:52:30</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.2530821,47.13575608,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alleestrasse-Madretschkanal-2</name>
+      <description><![CDATA[unnamed (1): 110<br>taxon_orig: Poaceae<br>x: 7.25272142<br>y: 47.13598239<br>obs_id: 11356248<br>date: 2022-02-06 09:58:09]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>110.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25272142</value>
+        </Data>
+        <Data name="y">
+          <value>47.13598239</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356248E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-06 09:58:09</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25272142,47.13598239,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alleestrasse-Madretschkanal-3</name>
+      <description><![CDATA[unnamed (1): 111<br>taxon_orig: Poaceae<br>x: 7.25265102<br>y: 47.13654615<br>obs_id: 11356243<br>date: 2022-02-06 10:03:43]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>111.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25265102</value>
+        </Data>
+        <Data name="y">
+          <value>47.13654615</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356243E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-06 10:03:43</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25265102,47.13654615,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salome-madretdchkanal-1</name>
+      <description><![CDATA[unnamed (1): 112<br>taxon_orig: Poaceae<br>x: 7.25254465<br>y: 47.1370919<br>obs_id: 11356241<br>date: 2022-02-06 10:06:14]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>112.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25254465</value>
+        </Data>
+        <Data name="y">
+          <value>47.1370919</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356241E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-06 10:06:14</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25254465,47.1370919,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salome-madretschkanal-2</name>
+      <description><![CDATA[unnamed (1): 113<br>taxon_orig: Poaceae<br>x: 7.25260206<br>y: 47.13746305<br>obs_id: 11356239<br>date: 2022-02-06 10:08:00]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>113.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25260206</value>
+        </Data>
+        <Data name="y">
+          <value>47.13746305</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356239E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-06 10:08:00</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25260206,47.13746305,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Obererquai-box-1</name>
+      <description><![CDATA[unnamed (1): 114<br>taxon_orig: Poaceae<br>x: 7.25139884<br>y: 47.13929668<br>obs_id: 11356235<br>date: 2022-02-06 10:32:12]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>114.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25139884</value>
+        </Data>
+        <Data name="y">
+          <value>47.13929668</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356235E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-06 10:32:12</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25139884,47.13929668,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Obererquai-box-2</name>
+      <description><![CDATA[unnamed (1): 115<br>taxon_orig: Poaceae<br>x: 7.25128451<br>y: 47.13924865<br>obs_id: 11356234<br>date: 2022-02-06 10:33:27]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>115.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25128451</value>
+        </Data>
+        <Data name="y">
+          <value>47.13924865</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356234E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-06 10:33:27</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25128451,47.13924865,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Obererquai-box-3</name>
+      <description><![CDATA[unnamed (1): 116<br>taxon_orig: Poaceae<br>x: 7.25122986<br>y: 47.1392238<br>obs_id: 11356233<br>date: 2022-02-06 10:34:46]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>116.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25122986</value>
+        </Data>
+        <Data name="y">
+          <value>47.1392238</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356233E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-06 10:34:46</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25122986,47.1392238,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Parc-muni-1</name>
+      <description><![CDATA[unnamed (1): 117<br>taxon_orig: Poaceae<br>x: 7.25426763<br>y: 47.14094628<br>obs_id: 11356227<br>date: 2022-02-06 10:50:55]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>117.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25426763</value>
+        </Data>
+        <Data name="y">
+          <value>47.14094628</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356227E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-06 10:50:55</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25426763,47.14094628,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Parc-muni-2</name>
+      <description><![CDATA[unnamed (1): 118<br>taxon_orig: Poaceae<br>x: 7.25373505<br>y: 47.14102804<br>obs_id: 11356225<br>date: 2022-02-06 10:52:15]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>118.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25373505</value>
+        </Data>
+        <Data name="y">
+          <value>47.14102804</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356225E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-06 10:52:15</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25373505,47.14102804,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cygnes-cff-1</name>
+      <description><![CDATA[unnamed (1): 119<br>taxon_orig: Poaceae<br>x: 7.25456544<br>y: 47.13810016<br>obs_id: 11356221<br>date: 2022-02-06 11:15:39]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>119.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25456544</value>
+        </Data>
+        <Data name="y">
+          <value>47.13810016</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356221E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-06 11:15:39</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25456544,47.13810016,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hazelnut tree</name>
+      <description><![CDATA[unnamed (1): 120<br>taxon_orig: Poaceae<br>x: 7.25206596<br>y: 47.13372979<br>obs_id: 11356218<br>date: 2022-02-07 12:17:41]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>120.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25206596</value>
+        </Data>
+        <Data name="y">
+          <value>47.13372979</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356218E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-07 12:17:41</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25206596,47.13372979,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nouri-2</name>
+      <description><![CDATA[unnamed (1): 121<br>taxon_orig: Poaceae<br>x: 7.25354679<br>y: 47.13100982<br>obs_id: 11356211<br>date: 2022-02-07 15:33:04]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>121.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25354679</value>
+        </Data>
+        <Data name="y">
+          <value>47.13100982</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356211E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-07 15:33:04</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25354679,47.13100982,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[unnamed (1): 122<br>taxon_orig: Poaceae<br>x: 7.24759421<br>y: 47.13140817<br>obs_id: 11356204<br>date: 2022-02-07 16:27:57]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>122.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.24759421</value>
+        </Data>
+        <Data name="y">
+          <value>47.13140817</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356204E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-07 16:27:57</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.24759421,47.13140817,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mettmoos-1</name>
+      <description><![CDATA[unnamed (1): 123<br>taxon_orig: Poaceae<br>x: 7.27769782<br>y: 47.13786496<br>obs_id: 11356201<br>date: 2022-02-08 12:11:27]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>123.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.27769782</value>
+        </Data>
+        <Data name="y">
+          <value>47.13786496</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356201E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-08 12:11:27</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.27769782,47.13786496,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mettmoos-2</name>
+      <description><![CDATA[unnamed (1): 124<br>taxon_orig: Poaceae<br>x: 7.27581801<br>y: 47.13797774<br>obs_id: 11356199<br>date: 2022-02-08 12:42:46]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>124.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.27581801</value>
+        </Data>
+        <Data name="y">
+          <value>47.13797774</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356199E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-08 12:42:46</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.27581801,47.13797774,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mettmoos-4</name>
+      <description><![CDATA[unnamed (1): 125<br>taxon_orig: Poaceae<br>x: 7.27636283<br>y: 47.13767578<br>obs_id: 11356195<br>date: 2022-02-08 13:07:53]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>125.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.27636283</value>
+        </Data>
+        <Data name="y">
+          <value>47.13767578</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356195E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-08 13:07:53</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.27636283,47.13767578,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mettmoos-5</name>
+      <description><![CDATA[unnamed (1): 126<br>taxon_orig: Poaceae<br>x: 7.27657934<br>y: 47.13768505<br>obs_id: 11356193<br>date: 2022-02-08 13:09:03]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>126.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.27657934</value>
+        </Data>
+        <Data name="y">
+          <value>47.13768505</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356193E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-08 13:09:03</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.27657934,47.13768505,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alfred-aebi-strasse-area-3</name>
+      <description><![CDATA[unnamed (1): 127<br>taxon_orig: Poaceae<br>x: 7.24615328<br>y: 47.1300467<br>obs_id: 11356188<br>date: 2022-02-09 11:05:48]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>127.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.24615328</value>
+        </Data>
+        <Data name="y">
+          <value>47.1300467</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356188E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-09 11:05:48</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.24615328,47.1300467,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alfred-aebi-strasse-area-2</name>
+      <description><![CDATA[unnamed (1): 128<br>taxon_orig: Poaceae<br>x: 7.24599327<br>y: 47.1297872<br>obs_id: 11356184<br>date: 2022-02-09 11:14:17]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>128.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.24599327</value>
+        </Data>
+        <Data name="y">
+          <value>47.1297872</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356184E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-09 11:14:17</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.24599327,47.1297872,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alfred-aebi-strasse-area-1</name>
+      <description><![CDATA[unnamed (1): 129<br>taxon_orig: Poaceae<br>x: 7.24615923<br>y: 47.12973179<br>obs_id: 11356181<br>date: 2022-02-09 11:16:54]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>129.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.24615923</value>
+        </Data>
+        <Data name="y">
+          <value>47.12973179</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356181E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-09 11:16:54</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.24615923,47.12973179,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sbb-area-4</name>
+      <description><![CDATA[unnamed (1): 130<br>taxon_orig: Poaceae<br>x: 7.24566302<br>y: 47.13120034<br>obs_id: 11356173<br>date: 2022-02-09 11:28:32]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>130.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.24566302</value>
+        </Data>
+        <Data name="y">
+          <value>47.13120034</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356173E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-09 11:28:32</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.24566302,47.13120034,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lokomotivdepot-berm-1</name>
+      <description><![CDATA[unnamed (1): 131<br>taxon_orig: Poaceae<br>x: 7.25495503<br>y: 47.13028684<br>obs_id: 11356172<br>date: 2022-02-10 17:02:15]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>131.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25495503</value>
+        </Data>
+        <Data name="y">
+          <value>47.13028684</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356172E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-10 17:02:15</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25495503,47.13028684,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lokomotivdepot-area-2</name>
+      <description><![CDATA[unnamed (1): 132<br>taxon_orig: Poaceae<br>x: 7.25619136<br>y: 47.13013132<br>obs_id: 11356171<br>date: 2022-02-10 17:05:38]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>132.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25619136</value>
+        </Data>
+        <Data name="y">
+          <value>47.13013132</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356171E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-10 17:05:38</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25619136,47.13013132,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lokomotivdepot-area-1</name>
+      <description><![CDATA[unnamed (1): 133<br>taxon_orig: Poaceae<br>x: 7.25658649<br>y: 47.12995362<br>obs_id: 11356169<br>date: 2022-02-10 17:07:54]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>133.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25658649</value>
+        </Data>
+        <Data name="y">
+          <value>47.12995362</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356169E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-10 17:07:54</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25658649,47.12995362,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lokomotivdepot-berm-2</name>
+      <description><![CDATA[unnamed (1): 134<br>taxon_orig: Poaceae<br>x: 7.25505017<br>y: 47.13018567<br>obs_id: 11356167<br>date: 2022-02-10 17:11:31]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>134.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25505017</value>
+        </Data>
+        <Data name="y">
+          <value>47.13018567</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356167E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-10 17:11:31</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25505017,47.13018567,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Muehlefeldweg-berm-1</name>
+      <description><![CDATA[unnamed (1): 135<br>taxon_orig: Poaceae<br>x: 7.25385348<br>y: 47.13001322<br>obs_id: 11356166<br>date: 2022-02-10 17:16:08]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>135.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25385348</value>
+        </Data>
+        <Data name="y">
+          <value>47.13001322</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356166E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-10 17:16:08</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25385348,47.13001322,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Muehlefeldweg-berm-1</name>
+      <description><![CDATA[unnamed (1): 136<br>taxon_orig: Poaceae<br>x: 7.25314689<br>y: 47.12997998<br>obs_id: 11356161<br>date: 2022-02-10 17:21:31]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>136.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25314689</value>
+        </Data>
+        <Data name="y">
+          <value>47.12997998</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356161E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-10 17:21:31</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25314689,47.12997998,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Portplatz-box-1</name>
+      <description><![CDATA[unnamed (1): 137<br>taxon_orig: Poaceae<br>x: 7.25843931<br>y: 47.12733553<br>obs_id: 11356157<br>date: 2022-02-10 17:33:47]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>137.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25843931</value>
+        </Data>
+        <Data name="y">
+          <value>47.12733553</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356157E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-10 17:33:47</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25843931,47.12733553,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blumenrain-area-1</name>
+      <description><![CDATA[unnamed (1): 138<br>taxon_orig: Poaceae<br>x: 7.25577805<br>y: 47.13275649<br>obs_id: 11356148<br>date: 2022-02-11 17:20:06]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>138.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25577805</value>
+        </Data>
+        <Data name="y">
+          <value>47.13275649</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356148E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-11 17:20:06</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25577805,47.13275649,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cts-1</name>
+      <description><![CDATA[unnamed (1): 139<br>taxon_orig: Poaceae<br>x: 7.2497387<br>y: 47.1354135<br>obs_id: 11356147<br>date: 2022-02-12 09:57:53]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>139.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.2497387</value>
+        </Data>
+        <Data name="y">
+          <value>47.1354135</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356147E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-12 09:57:53</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.2497387,47.1354135,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cts-2</name>
+      <description><![CDATA[unnamed (1): 140<br>taxon_orig: Poaceae<br>x: 7.2489145<br>y: 47.135029<br>obs_id: 11356146<br>date: 2022-02-12 11:19:31]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>140.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.2489145</value>
+        </Data>
+        <Data name="y">
+          <value>47.135029</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356146E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-12 11:19:31</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.2489145,47.135029,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bielstrasse-berm-2</name>
+      <description><![CDATA[unnamed (1): 141<br>taxon_orig: Poaceae<br>x: 7.261744<br>y: 47.1253973<br>obs_id: 11356145<br>date: 2022-02-12 16:40:30]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>141.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.261744</value>
+        </Data>
+        <Data name="y">
+          <value>47.1253973</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356145E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-12 16:40:30</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.261744,47.1253973,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bielstrasse-berm-4</name>
+      <description><![CDATA[unnamed (1): 142<br>taxon_orig: Poaceae<br>x: 7.26245156<br>y: 47.12500297<br>obs_id: 11356135<br>date: 2022-02-12 16:53:33]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>142.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.26245156</value>
+        </Data>
+        <Data name="y">
+          <value>47.12500297</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356135E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-12 16:53:33</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.26245156,47.12500297,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bielstrasse-1</name>
+      <description><![CDATA[unnamed (1): 143<br>taxon_orig: Poaceae<br>x: 7.26093644<br>y: 47.12600377<br>obs_id: 11356130<br>date: 2022-02-12 16:59:43]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>143.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.26093644</value>
+        </Data>
+        <Data name="y">
+          <value>47.12600377</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.135613E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-12 16:59:43</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.26093644,47.12600377,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bermenstrasse-1</name>
+      <description><![CDATA[unnamed (1): 144<br>taxon_orig: Poaceae<br>x: 7.25829396<br>y: 47.13256563<br>obs_id: 11356122<br>date: 2022-02-13 09:11:32]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>144.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25829396</value>
+        </Data>
+        <Data name="y">
+          <value>47.13256563</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356122E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-13 09:11:32</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25829396,47.13256563,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bermenstrasse-berm-5</name>
+      <description><![CDATA[unnamed (1): 145<br>taxon_orig: Poaceae<br>x: 7.2586963<br>y: 47.13118597<br>obs_id: 11356121<br>date: 2022-02-13 09:17:45]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>145.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.2586963</value>
+        </Data>
+        <Data name="y">
+          <value>47.13118597</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356121E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-13 09:17:45</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.2586963,47.13118597,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bermenstrasse-2</name>
+      <description><![CDATA[unnamed (1): 146<br>taxon_orig: Poaceae<br>x: 7.25873225<br>y: 47.13068297<br>obs_id: 11356120<br>date: 2022-02-13 09:20:17]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>146.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25873225</value>
+        </Data>
+        <Data name="y">
+          <value>47.13068297</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.135612E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-13 09:20:17</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25873225,47.13068297,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sonnhalde-1</name>
+      <description><![CDATA[unnamed (1): 148<br>taxon_orig: Poaceae<br>x: 7.25181567<br>y: 47.14784513<br>obs_id: 11356098<br>date: 2022-02-15 10:56:41]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>148.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25181567</value>
+        </Data>
+        <Data name="y">
+          <value>47.14784513</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356098E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-15 10:56:41</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25181567,47.14784513,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sonnhalde-2</name>
+      <description><![CDATA[unnamed (1): 149<br>taxon_orig: Poaceae<br>x: 7.25221029<br>y: 47.14801578<br>obs_id: 11356095<br>date: 2022-02-15 11:00:01]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>149.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25221029</value>
+        </Data>
+        <Data name="y">
+          <value>47.14801578</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356095E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-15 11:00:01</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25221029,47.14801578,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sonnhalde-3</name>
+      <description><![CDATA[unnamed (1): 150<br>taxon_orig: Poaceae<br>x: 7.25234122<br>y: 47.14762883<br>obs_id: 11356091<br>date: 2022-02-15 11:06:48]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>150.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25234122</value>
+        </Data>
+        <Data name="y">
+          <value>47.14762883</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356091E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-15 11:06:48</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25234122,47.14762883,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Propsteiweg-1</name>
+      <description><![CDATA[unnamed (1): 151<br>taxon_orig: Poaceae<br>x: 7.26863807<br>y: 47.1487365<br>obs_id: 11356082<br>date: 2022-02-15 13:28:06]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>151.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.26863807</value>
+        </Data>
+        <Data name="y">
+          <value>47.1487365</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356082E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-15 13:28:06</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.26863807,47.1487365,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Schossli-1</name>
+      <description><![CDATA[unnamed (1): 152<br>taxon_orig: Poaceae<br>x: 7.2687928<br>y: 47.14855394<br>obs_id: 11356069<br>date: 2022-02-15 13:41:11]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>152.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.2687928</value>
+        </Data>
+        <Data name="y">
+          <value>47.14855394</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356069E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-15 13:41:11</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.2687928,47.14855394,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bahnweg-madretschkanal-1</name>
+      <description><![CDATA[unnamed (1): 154<br>taxon_orig: Poaceae<br>x: 7.25208239<br>y: 47.13407102<br>obs_id: 11356060<br>date: 2022-02-18 15:20:49]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>154.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25208239</value>
+        </Data>
+        <Data name="y">
+          <value>47.13407102</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.135606E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-18 15:20:49</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25208239,47.13407102,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bahnweg-madretschkanal-2</name>
+      <description><![CDATA[unnamed (1): 155<br>taxon_orig: Poaceae<br>x: 7.25183177<br>y: 47.13396654<br>obs_id: 11356058<br>date: 2022-02-18 15:22:56]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>155.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25183177</value>
+        </Data>
+        <Data name="y">
+          <value>47.13396654</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356058E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-18 15:22:56</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25183177,47.13396654,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bahnweg-madretschkanal-3</name>
+      <description><![CDATA[unnamed (1): 156<br>taxon_orig: Poaceae<br>x: 7.25224424<br>y: 47.13415124<br>obs_id: 11356054<br>date: 2022-02-18 15:26:02]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>156.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25224424</value>
+        </Data>
+        <Data name="y">
+          <value>47.13415124</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356054E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-18 15:26:02</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25224424,47.13415124,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bahnweg-madretschkanal-4</name>
+      <description><![CDATA[unnamed (1): 157<br>taxon_orig: Poaceae<br>x: 7.25258597<br>y: 47.1343234<br>obs_id: 11356045<br>date: 2022-02-18 15:33:52]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>157.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25258597</value>
+        </Data>
+        <Data name="y">
+          <value>47.1343234</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356045E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-18 15:33:52</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25258597,47.1343234,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Klinik-1</name>
+      <description><![CDATA[unnamed (1): 158<br>taxon_orig: Poaceae<br>x: 7.26338287<br>y: 47.13258499<br>obs_id: 11356033<br>date: 2022-02-19 17:06:09]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>158.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.26338287</value>
+        </Data>
+        <Data name="y">
+          <value>47.13258499</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356033E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-19 17:06:09</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.26338287,47.13258499,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zukunftstrasse-madretschkanal-1</name>
+      <description><![CDATA[unnamed (1): 159<br>taxon_orig: Poaceae<br>x: 7.24969237<br>y: 47.13166692<br>obs_id: 11356019<br>date: 2022-02-20 11:36:32]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>159.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.24969237</value>
+        </Data>
+        <Data name="y">
+          <value>47.13166692</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356019E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-20 11:36:32</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.24969237,47.13166692,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alfred-aebi-strasse-1</name>
+      <description><![CDATA[unnamed (1): 160<br>taxon_orig: Poaceae<br>x: 7.24902551<br>y: 47.13103069<br>obs_id: 11356016<br>date: 2022-02-20 11:43:04]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>160.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.24902551</value>
+        </Data>
+        <Data name="y">
+          <value>47.13103069</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356016E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-20 11:43:04</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.24902551,47.13103069,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zukunftstrasse-1</name>
+      <description><![CDATA[unnamed (1): 161<br>taxon_orig: Poaceae<br>x: 7.24967091<br>y: 47.13166919<br>obs_id: 11356007<br>date: 2022-02-20 11:50:37]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>161.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.24967091</value>
+        </Data>
+        <Data name="y">
+          <value>47.13166919</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356007E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-20 11:50:37</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.24967091,47.13166919,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zukunftstrasse-madretschkanal-2</name>
+      <description><![CDATA[unnamed (1): 162<br>taxon_orig: Poaceae<br>x: 7.25009613<br>y: 47.13172673<br>obs_id: 11356003<br>date: 2022-02-20 11:54:53]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>162.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25009613</value>
+        </Data>
+        <Data name="y">
+          <value>47.13172673</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356003E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-20 11:54:53</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25009613,47.13172673,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kongresshaus-box-2</name>
+      <description><![CDATA[unnamed (1): 163<br>taxon_orig: Poaceae<br>x: 7.24779882<br>y: 47.13451459<br>obs_id: 11355988<br>date: 2022-02-20 17:07:14]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>163.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.24779882</value>
+        </Data>
+        <Data name="y">
+          <value>47.13451459</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1355988E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-20 17:07:14</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.24779882,47.13451459,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[unnamed (1): 164<br>taxon_orig: Poaceae<br>x: 7.2479227<br>y: 47.12781368<br>obs_id: 11355982<br>date: 2022-02-23 09:32:57]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>164.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.2479227</value>
+        </Data>
+        <Data name="y">
+          <value>47.12781368</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1355982E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-23 09:32:57</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.2479227,47.12781368,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fc-2</name>
+      <description><![CDATA[unnamed (1): 165<br>taxon_orig: Poaceae<br>x: 7.24740822<br>y: 47.12741369<br>obs_id: 11355965<br>date: 2022-02-23 10:03:18]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>165.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.24740822</value>
+        </Data>
+        <Data name="y">
+          <value>47.12741369</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1355965E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-23 10:03:18</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.24740822,47.12741369,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Schneidergaessli-1</name>
+      <description><![CDATA[unnamed (1): 166<br>taxon_orig: Poaceae<br>x: 7.24942314<br>y: 47.13303653<br>obs_id: 11355959<br>date: 2022-02-24 09:34:00]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>166.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.24942314</value>
+        </Data>
+        <Data name="y">
+          <value>47.13303653</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1355959E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-24 09:34:00</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.24942314,47.13303653,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Skatepark-1</name>
+      <description><![CDATA[unnamed (1): 167<br>taxon_orig: Poaceae<br>x: 7.24971274<br>y: 47.14337497<br>obs_id: 11355958<br>date: 2022-02-24 09:52:07]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>167.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.24971274</value>
+        </Data>
+        <Data name="y">
+          <value>47.14337497</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1355958E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-24 09:52:07</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.24971274,47.14337497,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tloch-1</name>
+      <description><![CDATA[unnamed (1): 168<br>taxon_orig: Poaceae<br>x: 7.26822107<br>y: 47.15311412<br>obs_id: 11355955<br>date: 2022-02-24 10:23:01]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>168.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.26822107</value>
+        </Data>
+        <Data name="y">
+          <value>47.15311412</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1355955E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-24 10:23:01</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.26822107,47.15311412,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tloch-2</name>
+      <description><![CDATA[unnamed (1): 169<br>taxon_orig: Poaceae<br>x: 7.26850882<br>y: 47.15309212<br>obs_id: 11355948<br>date: 2022-02-24 10:33:03]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>169.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.26850882</value>
+        </Data>
+        <Data name="y">
+          <value>47.15309212</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1355948E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-24 10:33:03</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.26850882,47.15309212,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tloch-3</name>
+      <description><![CDATA[unnamed (1): 170<br>taxon_orig: Poaceae<br>x: 7.2682494<br>y: 47.15342274<br>obs_id: 11355939<br>date: 2022-02-24 10:49:45]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>170.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.2682494</value>
+        </Data>
+        <Data name="y">
+          <value>47.15342274</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1355939E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-24 10:49:45</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.2682494,47.15342274,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cff-2</name>
+      <description><![CDATA[unnamed (1): 171<br>taxon_orig: Poaceae<br>x: 7.2402432<br>y: 47.13307978<br>obs_id: 11355922<br>date: 2022-02-26 09:11:37]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>171.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.2402432</value>
+        </Data>
+        <Data name="y">
+          <value>47.13307978</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1355922E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-26 09:11:37</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.2402432,47.13307978,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TO ADD</name>
+      <description><![CDATA[unnamed (1): 172<br>taxon_orig: Poaceae<br>x: 7.24870725<br>y: 47.13035511<br>obs_id: 11355915<br>date: 2022-02-26 14:15:57]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>172.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.24870725</value>
+        </Data>
+        <Data name="y">
+          <value>47.13035511</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1355915E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-26 14:15:57</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.24870725,47.13035511,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TO ADD-3</name>
+      <description><![CDATA[unnamed (1): 173<br>taxon_orig: Poaceae<br>x: 7.2467862<br>y: 47.13010889<br>obs_id: 11355910<br>date: 2022-02-26 14:25:29]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>173.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.2467862</value>
+        </Data>
+        <Data name="y">
+          <value>47.13010889</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.135591E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-26 14:25:29</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.2467862,47.13010889,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>To add 4</name>
+      <description><![CDATA[unnamed (1): 174<br>taxon_orig: Poaceae<br>x: 7.24795271<br>y: 47.13068041<br>obs_id: 11355905<br>date: 2022-02-26 14:31:15]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>174.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.24795271</value>
+        </Data>
+        <Data name="y">
+          <value>47.13068041</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1355905E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-26 14:31:15</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.24795271,47.13068041,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>To add 5</name>
+      <description><![CDATA[unnamed (1): 175<br>taxon_orig: Poaceae<br>x: 7.25219563<br>y: 47.13034417<br>obs_id: 11355900<br>date: 2022-02-26 17:44:44]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>175.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25219563</value>
+        </Data>
+        <Data name="y">
+          <value>47.13034417</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.13559E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-26 17:44:44</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25219563,47.13034417,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>bstrasse1</name>
+      <description><![CDATA[unnamed (1): 176<br>taxon_orig: Poaceae<br>x: 7.2528212745596<br>y: 47.130944695253<br>obs_id: 11355892<br>date: 2022-02-26 17:53:46]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>176.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.2528212745596</value>
+        </Data>
+        <Data name="y">
+          <value>47.130944695253</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1355892E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-26 17:53:46</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.2528212745596,47.130944695253,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>nouri3</name>
+      <description><![CDATA[unnamed (1): 177<br>taxon_orig: Poaceae<br>x: 7.2534221<br>y: 47.1307375<br>obs_id: 11355880<br>date: 2022-02-26 18:02:21]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>177.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.2534221</value>
+        </Data>
+        <Data name="y">
+          <value>47.1307375</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.135588E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-26 18:02:21</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.2534221,47.1307375,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>nouri4</name>
+      <description><![CDATA[unnamed (1): 178<br>taxon_orig: Poaceae<br>x: 7.2532526781347<br>y: 47.130979126526<br>obs_id: 11355874<br>date: 2022-02-26 18:06:53]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>178.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.2532526781347</value>
+        </Data>
+        <Data name="y">
+          <value>47.130979126526</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1355874E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-26 18:06:53</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.2532526781347,47.130979126526,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CDF-2-added</name>
+      <description><![CDATA[unnamed (1): <br>taxon_orig: <br>x: 6.8069651<br>y: 47.0877582<br>obs_id: <br>date: ]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value/>
+        </Data>
+        <Data name="taxon_orig">
+          <value/>
+        </Data>
+        <Data name="x">
+          <value>6.8069651</value>
+        </Data>
+        <Data name="y">
+          <value>47.0877582</value>
+        </Data>
+        <Data name="obs_id">
+          <value/>
+        </Data>
+        <Data name="date">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          6.8069651,47.0877582,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>School-2</name>
+      <description><![CDATA[unnamed (1): 153<br>taxon_orig: Poaceae<br>x: 7.25426671<br>y: 47.13133961<br>obs_id: 11356065<br>date: 2022-02-15 17:02:03]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>153.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25426671</value>
+        </Data>
+        <Data name="y">
+          <value>47.13133961</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356065E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-15 17:02:03</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25426671,47.13133961,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>School-1</name>
+      <description><![CDATA[unnamed (1): 147<br>taxon_orig: Poaceae<br>x: 7.25532057<br>y: 47.1321045<br>obs_id: 11356109<br>date: 2022-02-13 11:49:46]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>147.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.25532057</value>
+        </Data>
+        <Data name="y">
+          <value>47.1321045</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356109E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-13 11:49:46</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.25532057,47.1321045,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>nouri1</name>
+      <description><![CDATA[unnamed (1): 108<br>taxon_orig: Poaceae<br>x: 7.2533858603867<br>y: 47.131113096163<br>obs_id: 11356253<br>date: 2022-02-06 09:36:50]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="unnamed (1)">
+          <value>108.0</value>
+        </Data>
+        <Data name="taxon_orig">
+          <value>Poaceae</value>
+        </Data>
+        <Data name="x">
+          <value>7.2533858603867</value>
+        </Data>
+        <Data name="y">
+          <value>47.131113096163</value>
+        </Data>
+        <Data name="obs_id">
+          <value>1.1356253E7</value>
+        </Data>
+        <Data name="date">
+          <value>2022-02-06 09:36:50</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.2533858603867,47.131113096163,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
