@@ -32,3 +32,6 @@ ipython_config.py
 *.code-workspace
 .history
 .vscode
+
+# big geo files
+*.gdb
